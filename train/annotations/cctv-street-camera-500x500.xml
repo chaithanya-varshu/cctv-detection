@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>cctv-street-camera-500x500.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\cctv-street-camera-500x500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CC Camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>202</ymin>
+			<xmax>243</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CC Camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>50</ymin>
+			<xmax>459</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

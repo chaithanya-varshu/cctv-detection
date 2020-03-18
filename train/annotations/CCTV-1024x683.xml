@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>CCTV-1024x683.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\CCTV-1024x683.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CC Camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>161</ymin>
+			<xmax>854</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CC Camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>12</ymin>
+			<xmax>347</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

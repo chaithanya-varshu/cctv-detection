@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>special.jpg</filename>
+	<path>C:\Users\varshu\Desktop\dataset\train\images\special.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CC Camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>250</ymin>
+			<xmax>467</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

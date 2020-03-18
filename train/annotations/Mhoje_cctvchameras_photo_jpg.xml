@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Mhoje_cctvchameras_photo_jpg.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\Mhoje_cctvchameras_photo_jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2121</width>
+		<height>1414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CC Camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>387</ymin>
+			<xmax>959</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CC Camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1196</xmin>
+			<ymin>294</ymin>
+			<xmax>1755</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>CC Camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>683</ymin>
+			<xmax>861</xmax>
+			<ymax>1126</ymax>
+		</bndbox>
+	</object>
+</annotation>

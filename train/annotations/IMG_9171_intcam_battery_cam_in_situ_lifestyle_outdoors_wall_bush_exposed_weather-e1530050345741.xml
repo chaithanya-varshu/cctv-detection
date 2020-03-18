@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>IMG_9171_intcam_battery_cam_in_situ_lifestyle_outdoors_wall_bush_exposed_weather-e1530050345741.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\IMG_9171_intcam_battery_cam_in_situ_lifestyle_outdoors_wall_bush_exposed_weather-e1530050345741.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nest Cam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>84</ymin>
+			<xmax>538</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>nest-outdoor-wall-e1468782866155.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\nest-outdoor-wall-e1468782866155.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>937</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nest Cam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>201</ymin>
+			<xmax>551</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

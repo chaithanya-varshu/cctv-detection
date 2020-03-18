@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Camera-for-Home-Security (1).jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\Camera-for-Home-Security (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nest Cam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>92</ymin>
+			<xmax>569</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

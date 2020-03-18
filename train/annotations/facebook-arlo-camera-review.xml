@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>facebook-arlo-camera-review.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\facebook-arlo-camera-review.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nest Cam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>105</ymin>
+			<xmax>596</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

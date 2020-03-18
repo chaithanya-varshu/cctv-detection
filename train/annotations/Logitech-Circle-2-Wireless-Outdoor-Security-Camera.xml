@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>Logitech-Circle-2-Wireless-Outdoor-Security-Camera.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\Logitech-Circle-2-Wireless-Outdoor-Security-Camera.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nest Cam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>74</ymin>
+			<xmax>338</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>gettyimages-1012-42-640x640.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\gettyimages-1012-42-640x640.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CC Camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>50</ymin>
+			<xmax>521</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>depositphotos_185080466-stock-photo-cctv-security-camera-wall.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\depositphotos_185080466-stock-photo-cctv-security-camera-wall.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CC Camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>338</ymin>
+			<xmax>595</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

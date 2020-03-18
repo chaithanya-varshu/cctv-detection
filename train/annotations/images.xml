@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>images.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\images.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nest Cam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>33</ymin>
+			<xmax>129</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

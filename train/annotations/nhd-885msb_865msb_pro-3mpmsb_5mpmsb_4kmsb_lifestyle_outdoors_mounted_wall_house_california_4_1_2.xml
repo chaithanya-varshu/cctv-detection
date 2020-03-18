@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>nhd-885msb_865msb_pro-3mpmsb_5mpmsb_4kmsb_lifestyle_outdoors_mounted_wall_house_california_4_1_2.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\nhd-885msb_865msb_pro-3mpmsb_5mpmsb_4kmsb_lifestyle_outdoors_mounted_wall_house_california_4_1_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nest Cam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>993</xmin>
+			<ymin>1109</ymin>
+			<xmax>2007</xmax>
+			<ymax>1804</ymax>
+		</bndbox>
+	</object>
+</annotation>

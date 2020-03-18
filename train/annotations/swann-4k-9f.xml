@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>swann-4k-9f.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\swann-4k-9f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5120</width>
+		<height>2881</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nest Cam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1809</xmin>
+			<ymin>345</ymin>
+			<xmax>4220</xmax>
+			<ymax>2361</ymax>
+		</bndbox>
+	</object>
+</annotation>

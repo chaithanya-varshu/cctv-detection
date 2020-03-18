@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>security-camera-1306514-PRO-ACT-SECURITE-CAMERA.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\security-camera-1306514-PRO-ACT-SECURITE-CAMERA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1148</width>
+		<height>799</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CC Camera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>138</ymin>
+			<xmax>716</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

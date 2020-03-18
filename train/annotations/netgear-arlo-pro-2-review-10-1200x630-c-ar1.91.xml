@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>netgear-arlo-pro-2-review-10-1200x630-c-ar1.91.jpg</filename>
+	<path>C:\Users\varshu\Desktop\Images\netgear-arlo-pro-2-review-10-1200x630-c-ar1.91.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>628</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nest Cam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>600</xmin>
+			<ymin>54</ymin>
+			<xmax>970</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>
