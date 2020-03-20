@@ -20,6 +20,12 @@ Install the <b>labelimg</b> library and use the labelimg command to open the GUI
     
 <br>
 We have to load each image one by one and mark the cc cams in the pictures and mark them as 'CC Cameras'. This cannot be automated. This will create xml files for each respective image wich same name as image name.
+<br>
+It will look like below.
+<br>
+
+<img src=labelimg.jpg width=100% />
+
 <h3> 2. Dataset Preparation</h3>
 Have the folder structure as below. Refer to my repository for data. Both train and validation folders can be placed in a folder named dataset.
 <br>
